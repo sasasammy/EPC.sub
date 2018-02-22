@@ -1,4 +1,5 @@
 # EPC.sub
+Subscribers info (dn) generator
 ===
 
 Python v3 revision
